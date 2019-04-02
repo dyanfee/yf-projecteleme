@@ -66,7 +66,7 @@ class GetFromEleme():
             lucky_number = repy.isLuckNumber(url)
             if lucky_number != None:
                 print("手气最佳位置:"+str(lucky_number))
-            else：
+            else:
                 print("获取手气最佳失败！")
                 return
             
