@@ -1,0 +1,43 @@
+{
+    "account": "15705936608",
+    "extra_info": "{\"group_on_hongbao_popup\": false, \"order_target\": null}",
+    "is_lucky": false,
+    "is_new_supervip": false,
+    "lucky_status": 2,
+    "promotion_items": [
+        {
+            "amount": 2.3,
+            "expire_date": "2019-04-03",
+            "hongbao_variety": [
+                "全品类"
+            ],
+            "is_new_user": false,
+            "item_type": 1,
+            "name": "品质联盟专享红包",
+            "phone": "15705936608",
+            "source": "qq_share_hongbao",
+            "sum_condition": 25,
+            "validity_periods": "2019-04-03到期"
+        }
+    ],
+    "promotion_records": [
+        {
+            "amount": 2.3,
+            "created_at": 1554197033,
+            "is_doubling_issued": false,
+            "is_lucky": false,
+            "sns_avatar": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJiaCBO9f33YY8H8Myu0CPY7Ioqo78fs1Q1L2KOBbIiaGYibhyhMICdeZGDO3nW6HcOP5kX21LF3jyAA/132",
+            "sns_username": "DDDDDD"
+        },
+        {
+            "amount": 2.3,
+            "created_at": 1554197509,
+            "is_doubling_issued": false,
+            "is_lucky": false,
+            "sns_avatar": "http://thirdqq.qlogo.cn/qqapp/101204453/6409FAE1CEA4B1A50F8A85B8DFDA7236/40",
+            "sns_username": "DAXIGUA"
+        }
+    ],
+    "ret_code": 4,
+    "theme_id": 3979
+}

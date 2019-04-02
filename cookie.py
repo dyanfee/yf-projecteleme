@@ -1,8 +1,8 @@
-class Cookie:
+class Cookie1:
     # 初始化
-    def __init__(self,id,cookie,sign,jurl,utrance,ubt_ssid,perf_ssid,SID,info):
+    def __init__(self, id, cookie, sign, jurl, utrance, ubt_ssid, perf_ssid, SID, info):
         self.id = id
-        self.cookie =cookie
+        self.cookie = cookie
         self.sign = sign
         self.jurl = jurl
         self.utrance = utrance
@@ -10,3 +10,7 @@ class Cookie:
         self.perf_ssid = perf_ssid
         self.SID = SID
         self.info = info
+
+
+class Cookie:
+    pass

@@ -24,6 +24,7 @@ def initUser(configName):
             user['openid'] = re.findall('(?<=openid%22%3A%22).+?(?=%22%2C%22)', kv[1])[0]
             user['unionid'] = re.findall('(?<=unionid%22%3A%22).+?(?=%22%2C%22)', kv[1])[0]
             user['weixin_avatar'] = unquote(re.findall('(?<=headimgurl%22%3A%22).+?(?=%22%2C%22)', kv[1])[0])
+
             requestData(user)
     return user
 
